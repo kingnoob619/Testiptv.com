@@ -1,0 +1,336 @@
+#EXTM3U8
+#EXTINF:-1, PBS HD
+http://clients.clientportal.link:8080/live/Silva/Silva/15715.m3u8
+#EXTINF:-1, NBC
+http://clients.clientportal.link:8080/live/Silva/Silva/9008.m3u8
+#EXTINF:-1, CBS HD
+http://208.86.19.13:8080/live/101.stream/index.m3u8
+#EXTINF:-1, KET
+https://1-fss28-s0.streamhoster.com/lv_ket_webf1/_definst_/broadcast1/master.m3u8
+#EXTINF:-1, ABC NEWS
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8578.ts
+#EXTINF:-1, ABC HD 
+http://clients.clientportal.link:8080/live/Silva/Silva/9026.m3u8
+#EXTINF:-1, WKYT NEWS
+http://play-prod1.live.anvato.net/server/play/gray-wkyt-dfp/master.m3u8
+#EXTINF:-1,ABC HD
+http://208.86.19.123:8080/live/104.stream/index.m3u8
+#EXTINF:-1, Wymt Hd
+http://play-prod1.live.anvato.net/server/play/gray-wymt-dfp/master.m3u8
+#EXTINF:-1, FOX EAST
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1253.ts
+#EXTINF:-1, ION
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8544.m3u8
+#EXTINF:-1,NBC HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1397.m3u8
+#EXTINF:-1, CBS HD
+http://clients.clientportal.link:8080/live/Silva/Silva/10347.m3u8
+#EXTINF:-1, QVC Hd
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/chunklist_b1928000.m3u8
+#EXTINF:-1, CW HD
+http://clients.clientportal.link:8080/live/Silva/Silva/15718.m3u8
+#EXTINF:-1, WLFG
+http://46.166.162.177:8080/live/Chad-Burkart/PIACz371hI/1612.m3u8
+#EXTINF:-1, DEJAVIEW
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8539.ts
+#EXTINF:-1, POP HD
+http://dreamlord.tk:5454/live/demonbaz666/021956/14274.m3u8
+#EXTINF:-1, HSN
+http://bbrtv.ddns.net:8000/live/patrickwilson832@gmail.com/password1234/483.m3u8
+#EXTINF:-1, EVINE HD
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/layer1.m3u8
+#EXTINF:-1, CINEMAX
+http://46.166.162.177:8080/live/Chad-Burkart/PIACz371hI/1228.m3u8
+#EXTINF:-1, CINEMAX MOREMAX
+http://bbrtv.ddns.net:8000/live/patrickwilson832@gmail.com/password1234/422.m3u8
+#EXTINF:-1, CINEMAX 5 STARMAX
+http://bbrtv.ddns.net:8000/live/patrickwilson832@gmail.com/password1234/424.m3u8
+#EXTINF:-1, WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1, HBO COMEDY
+http://bbrtv.ddns.net:8000/live/patrickwilson832@gmail.com/password1234/418.m3u8
+#EXTINF:-1, Daystar Hd
+https://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master_720p.m3u8
+#EXTINF:-1, Lifetime HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/3919.m3u8
+#EXTINF:-1, The Weather Channel HD
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1, NBC NEWS 
+http://cdn.bimvidlive.com/wjfw1/wjfw1/master.m3u8
+#EXTINF:-1, Espn HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1321.m3u8
+#EXTINF:-1, Espn 2 HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1322.m3u8
+#EXTINF:-1, FOX SPORTS HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1318.m3u8
+#EXTINF:-1, NBC Golf
+http://vaders.tv/live/goose/goose/2561.m3u8
+#EXTINF:-1, Fox Sports 1 HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1360.m3u8
+#EXTINF:-1, NBC Sports Network HD
+http://clients.clientportal.link:8080/live/Silva/Silva/13687.m3u8
+#EXTINF:-1, CNN News HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1283.m3u8
+#EXTINF:-1, HLN HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2021.m3u8
+#EXTINF:-1, MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, CNBC HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1317.m3u8
+#EXTINF:-1, Fox News HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1318.m3u8
+#EXTINF:-1, FX HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1385.m3u8
+#EXTINF:-1, FXX HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1747.m3u8
+#EXTINF:-1, FreeForm HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1722.m3u8
+#EXTINF:-1, TBN HD
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1, TBS HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1725.m3u8
+#EXTINF:-1, TNT Hd
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1723.m3u8
+#EXTINF:-1, USA HD
+http://208.86.19.123:8080/live/11.stream/index.m3u8
+#EXTINF:-1, Outdoor Channel HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/9325.m3u8
+#EXTINF:-1, A&E HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1398.m3u8
+#EXTINF:-1, TLC HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1270.m3u8
+#EXTINF:-1, H2 HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1406.m3u8
+#EXTINF:-1, History HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1378.m3u8
+#EXTINF:-1, Discovery Channel HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1305.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1403.m3u8
+#EXTINF:-1, Travel Channel HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8507.m3u8
+#EXTINF:-1, E! HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1416.m3u8
+#EXTINF:-1, HGTV HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8585.m3u8
+#EXTINF:-1,Cooking Channel HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8558.m3u8
+#EXTINF:-1, Food Network HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8584.m3u8
+#EXTINF:-1, Spike HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1335.m3u8
+#EXTINF:-1, CMT
+http://bbrtv.ddns.net:8000/live/patrickwilson832@gmail.com/password1234/258.m3u8
+#EXTINF:-1, VH1
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2046.m3u8
+#EXTINF:-1, MTV HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1263.m3u8
+#EXTINF:-1, Comedy Central HD
+http://clients.clientportal.link:8080/live/Angela/Angela/13102.m3u8
+#EXTINF:-1, SYFY HD
+http://46.166.162.177:8080/live/Chad-Burkart/PIACz371hI/1174.m3u8
+#EXTINF:-1, TV LAND
+http://bbrtv.ddns.net:8000/live/patrickwilson832@gmail.com/password1234/532.m3u8
+#EXTINF:-1, AMC HD
+http://46.166.162.177:8080/live/Chad-Burkart/PIACz371hI/1206.m3u8
+#EXTINF:-1, Bravo HD
+http://46.166.162.177:8080/live/Chad-Burkart/PIACz371hI/1204.m3u8
+#EXTINF:-1, TCM
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1737.m3u8
+#EXTINF:-1, Animal Planet HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1315.m3u8
+#EXTINF:-1,Disney Channel HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1337.m3u8
+#EXTINF:-1, Disney XD HD
+http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/86.m3u8
+#EXTINF:-1, Cartoon Network HD
+http://clients.clientportal.link:8080/live/Angela/Angela/13103.m3u8
+#EXTINF:-1, Nickelodeon HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8537.m3u8
+#EXTINF:-1, NICK JR HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1381.m3u8
+#EXTINF:-1, Nick JR Too HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2919.m3u8
+#EXTINF:-1, Vibee Hd
+http://46.101.21.42:8081/live/live2/chunks.m3u8
+#EXTINF:-1, OXYGEN HD
+http://46.166.162.177:8080/live/Chad-Burkart/PIACz371hI/1628.m3u8
+#EXTINF:-1, ID HD
+http://vaders.tv/live/goose/goose/7941.m3u8
+#EXTINF:-1, Mello TV HD 
+http://162.212.176.113:80/live/smil:mellotv.smil/chunklist_w1010732594_b614000_sleng.m3u8
+#EXTING:-1, NBC NEWS Midwest HD
+http://cdn.bimvidlive.com/wjfw1/wjfw1/master.m3u8
+#EXTINF:-1, LMN
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8524.ts
+#EXTINF:-1, Tru TV HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1270.m3u8
+#EXTINF:-1, DIY NETWORK
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1371.ts
+#EXTINF:-1, WEATHER NATION HD
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1, Discovery Science HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1379.m3u8
+#EXTINF:-1, Hallmark Channel HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1715.ts
+#EXTINF:-1, BOOMERANG
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1415.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/nickelodeon/images/f/f0/NickToons_logo_2009.png" group-title="UK",Nicktoons *
+http://5.255.90.223:2082/play/Nicktoons
+#EXTINF:-1, NICKTOONS
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1720.ts
+#EXTINF:-1, FIght Network HD
+http://163.172.81.33:1234/live/iptvrestream.net1/uT1IOcDc6e/308.m3u8
+#EXTINF:-1, Level 3 Tv HD
+http://vaders.tv/live/goose/goose/2622.m3u8
+#EXTINF:-1, One Tv HD
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1, VELOCITY HD
+http://46.166.162.177:8080/live/Chad-Burkart/PIACz371hI/1301.m3u8
+#EXTINF:-1, Viceland HD
+http://46.166.162.177:8080/live/Chad-Burkart/PIACz371hI/1420.m3u8
+#EXTINF:-1, DIY Network HD
+http://clientportal.link:8080/live/Igor/Igor/13101.m3u8
+#EXTINF:-1, NFL NETWORK HD
+http://clients.clientportal.link:8080/live/Silva/Silva/9077.m3u8
+#EXTINF:-1,TSN 1 HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1390.m3u8
+#EXTINF:-1,TSN 2 HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1391.m3u8
+#EXTINF:-1,TSN 3 HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1392.m3u8
+#EXTINF:-1,TSN 4 HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1393.m3u8
+#EXTINF:-1,TSN 5 HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1394.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona HD
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles HD
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain HD
+http://xrxs.net/video/live-p12moun-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington HD
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg", Pac-12 National Full HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", Pac-12 Arizona Full HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", Pac-12  Los Angeles Full HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", Pac-12 Mountain Full HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", Pac-12 Oregon Full HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", Pac-12 Washington Full HD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-bayarea.jpg", Pac-12 Bay Area Full HD
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://ia801509.us.archive.org/14/items/itv-studios-logo/1280px-ITV_logo_1989-1998.svg.png" group-title="OUR_FAVS",Hit TV s-7
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,MLB 1 13:07 ET Mariners vs Blue Jays
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2028.m3u8
+#EXTINF:-1,MLB 10 14:15 ET Cubs vs Cardinals
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2037.m3u8
+#EXTINF:-1,MLB 11 15:05 ET Athletics vs Rangers
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/7724.m3u8
+#EXTINF:-1,MLB 12 15:10 ET Dodgers vs Rockies
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/7725.m3u8
+#EXTINF:-1,MLB 13 15:37 ET Tigers vs Angels
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/7726.m3u8
+#EXTINF:-1,MLB 14 16:05 ET Reds vs Giants
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/7727.m3u8
+#EXTINF:-1,MLB 15 16:10 ET Pirates vs Diamondbacks
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/7728.m3u8
+#EXTINF:-1,MLB 2 13:10 ET Twins vs Indians
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2029.m3u8
+#EXTINF:-1,MLB 3 13:10 ET Braves vs Marlins
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2030.m3u8
+#EXTINF:-1,MLB 4 13:35 ET Rays vs Red Sox
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2031.m3u8
+#EXTINF:-1,MLB 5 13:35 ET Phillies vs Nationials
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2032.m3u8
+#EXTINF:-1,MLB 6 14:05 ET Astros vs Yankees
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2033.m3u8
+#EXTINF:-1,MLB 7 14:10 ET Mets vs Brewers
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2034.m3u8
+#EXTINF:-1,MLB 8 14:10 ET Padres vs White Sox
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2035.m3u8
+#EXTINF:-1,MLB 9 14:15 ET Orioles vs Royals
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/2036.m3u8
+#EXTINF:-1,MLB Extra 16
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/7729.m3u8
+#EXTINF:-1,MLB Network HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1338.m3u8
+#EXTINF:-1,HBO 2 HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1764.m3u8
+#EXTINF:-1,HBO Comedy
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8520.m3u8
+#EXTINF:-1,HBO Family
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8519.m3u8
+#EXTINF:-1,HBO HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/1313.m3u8
+#EXTINF:-1,HBO Zone US HD
+http://stream.fabiptv.com:25461/live/aknmjnda/69y4vCpAo9/8577.m3u8
+#EXTINF:-191, tvg-id="" tvg-name="Music Choice Classic Rock " tv-logo="" group-title="Music", Music Choice Classic Rock 
+https://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-006/media-uj7ofa1mb_36127.m3u8
+#EXTINF:-1, Music Choice All XMAS
+https://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/media-uhy788l2w_180964.m3u8
+#EXTINF:-1, Music Choice Alt
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/122/media-udyn54561_3208.m3u8
+#EXTINF:-1, Music Choice Dance
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/127/media-uvnhqdwv9_3239.m3u8
+#EXTINF:-1, Music Choice Brits + Hits
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/143/media-uzre3psgq_11888.m3u8
+#EXTINF:-1, Music Choice Hip-Hop and R&B
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/106/media-u8f3wgbb4_32801.m3u8
+#EXTINF:-1, Music Choice Hit List
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/100/media-utmm9c22x_3288.m3u8
+#EXTINF:-1, Music Choice Indie
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/129/media-u6uj39u21_32697.m3u8
+#EXTINF:-1, Music Choice Metal
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/139/media-urf7r670r_30639.m3u8
+#EXTINF:-1, Music Choice Mexicana
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/131/media-u1qfx8zvp_11786.m3u8
+#EXTINF:-1, Music Choice Musica Urbana 
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/128/media-ui26vccdc_3302.m3u8
+#EXTINF:-1, Music Choice Pop & Country
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/132/media-uf8oh5fjh_11861.m3u8
+#EXTINF:-1, Music Choice Pop Hits 
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/133/media-u2tuw8k56_11961.m3u8
+#EXTINF:-1, Music Choice Pop Latino
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/123/media-uy38ubm49_27268.m3u8
+#EXTINF:-1, Music Choice R&B Soul
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/124/media-u52jk6sv9_32887.m3u8
+#EXTINF:-1, Music Choice Rap
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/125/media-u8ou7ipz6_3353.m3u8
+#EXTINF:-1, Music Choice Rap 2k
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/141/media-uk2tgjbwr_11846.m3u8
+#EXTINF:-1, Music Choice Rock
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/138/media-uj9npbfkd_11915.m3u8
+#EXTINF:-1, Music Choice Teen Beats
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/118/media-uhxfgo4i8_3392.m3u8
+#EXTINF:-1, Music Choice Today's Country
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/121/media-u8a9bd889_3365.m3u8
+#EXTINF:-1, Music Choice Tropicales
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/137/media-uq28nolsf_11883.m3u8
+#EXTINF:-1, Music Choice 90's
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/140/media-umtjajz1v_20622.m3u8
+#EXTINF:-1, Music Choice Throwback Jams
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/142/media-ugebx005k_26522.m3u8
+#EXTINF:-1, Music Choice Y2K
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/145/media-ug39iyk1l_11888.m3u8
+#EXTINF:-1, MUSIC CHOICE AUDIO ONLY
+#EXTINF:-1, MUSIC CHOICE ADULT ALT
+https://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/media-u0kl2edf7_197188.m3u8
+#EXTINF:-1, MUSIC CHOICE ALT R&B
+https://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/media-ugizdwjma_52306.m3u8
+#EXTINF:-1, MUSIC CHOICE Alternative
+https://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/media-ueumemh9j_197223.m3u8
+#EXTINF:-1, MUSIC CHOICE Brits + Hits
+https://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-154/media-unefkg1mb_52309.m3u8
